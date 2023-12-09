@@ -1,6 +1,6 @@
 # WinRar
 
-- First Download [WinRar](https://www.win-rar.com/)
+- First Download [WinRar](https://downloaddevtools.com/en/product/48/free-download-winrar)
 
 - Then Install :)  By keeping Wifi/Cellular Data OFF
 
